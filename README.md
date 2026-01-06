@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Enrik 👋
 
-<!--
-**EnrikAgalliu/EnrikAgalliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Graduate | AI & Cybersecurity  
+🔍 Research Focus: Insider Threat Detection, Anomaly Detection  
+🤖 Interests: Deep Learning, Time-Series Models, Security Analytics
 
-Here are some ideas to get you started:
+## 🔬 Last Work
+- BiLSTM Autoencoder for insider threat detection
+- Unsupervised learning on CERT datasets
+- Reducing false positives in anomaly detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python, PyTorch, Scikit-learn
+- Docker, Linux, Git
+- Pandas, NumPy
+
+## 📫 Contact
+- LinkedIn: 
+- Email: 
