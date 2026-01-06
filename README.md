@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enrik</h1>
+<h1 align="center">Hi, I'm Enrik</h1>
 <h3 align="center">AI & Security Researcher | Anomaly Detection | Insider Threats</h3>
 
 ---
