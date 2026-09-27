@@ -40,7 +40,14 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:enrik.agalliu@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+### 📄 Portfolio
+<a href="./Portfolio-Enrik_Agalliu.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download_Portfolio-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
