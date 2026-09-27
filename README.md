@@ -48,7 +48,7 @@
 ---
 
 ### 📄 Portfolio
-Check out my detailed portfolio covering my research on log anomaly detection, insider threats, and unsupervised machine learning:
+Check out my detailed portfolio covering my research and other projects:
 
 <a href="./Portfolio-Enrik_Agalliu.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download_Portfolio-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
